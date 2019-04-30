@@ -1,0 +1,60 @@
+/* * {outline: 1px solid red
+} */
+
+body {
+  background-color: #0f0f0f;
+  color: #f8f8f8;
+}
+
+h2 {
+  color: #d30000;
+  font-weight: 700;
+  padding: 1px 0px 5px 0px;
+
+}
+
+address {
+  background-color:  #380505; 
+  color: #f3f3f3;
+
+}
+
+address ul {
+  list-style: none;
+  display: flex;
+   justify-content: center;
+}
+
+address li {
+  padding: 10px 15px;
+
+}
+
+section>header {
+  color: #d30000;
+}
+
+#skills ul {
+  column-count: 3;
+  list-style: none;
+}
+
+#skills li {
+  padding: 3px 0px;
+}
+
+#organization ul {
+  comumn-count: 2;
+}
+
+main {
+  background-image: url('none' );
+  background-position: center;
+  background-size: cover; 
+  text-shadow: 1px 1px black;
+}
+
+
+.job {
+background-color: none;
+}
